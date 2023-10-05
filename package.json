@@ -1,0 +1,18 @@
+{
+  "name": "atividade-final-poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon ./src/index.ts",
+    "teste": "nodemon ./src/controllers/creatUsers.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.8.2",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.2.2"
+  }
+}
